@@ -5,4 +5,9 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>wechat</name>
+  <modules>
+  	<module>wechat-core</module>
+  	<module>wechat-interface</module>
+  	<module>wechat-portal</module>
+  </modules>
 </project>
